@@ -1,0 +1,18 @@
+$ git -C D:\\practise log
+commit 6884b0d15e2f1b4a1e30f7e485fc11a1935c339e (HEAD -> master)
+Author: pkp2209 <pkp2209@mail.ru>
+Date:   Mon Feb 24 20:36:46 2020 +0300
+
+    add status.txt
+
+commit 0cfda885ead627fbfefe30762cfaea0177a8a465
+Author: pkp2209 <pkp2209@mail.ru>
+Date:   Mon Feb 24 20:34:17 2020 +0300
+
+    add .gitignore
+
+commit 5344ad7d5f28d37a42157525a14588443fc0fb8b
+Author: pkp2209 <agoika2209@gmail.com>
+Date:   Mon Feb 24 20:07:07 2020 +0300
+
+    Initial commit
