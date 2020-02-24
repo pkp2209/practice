@@ -1,0 +1,17 @@
+$ git -C D:\\practise\\ status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .idea/
+        task1.iml
+        task1/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+$ git -C D:\\practise\\ status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        task1/
+
+nothing added to commit but untracked files present (use "git add" to track)
