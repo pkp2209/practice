@@ -15,3 +15,7 @@ Untracked files:
         task1/
 
 nothing added to commit but untracked files present (use "git add" to track)
+
+$ git -C D:\\practise\\ status
+On branch master
+nothing to commit, working tree clean
